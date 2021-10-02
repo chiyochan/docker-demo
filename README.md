@@ -5,13 +5,13 @@
 * User Spring Tool Suite (STS) instead of IntelliJ Idea
 * Generated the project from within STS, instead of Spring initializer
 * Useful docker commands
-docker -v
-docker info
-docker build -f Dockerfile -t spring-boot-docker .
-docker images
-docker run -p 8085:8085 spring-boot-docker
-docker ps
-docker stop gallant_montalcini
+* docker -v
+* docker info
+* docker build -f Dockerfile -t spring-boot-docker .
+* docker images
+* docker run -p 8085:8085 spring-boot-docker
+* docker ps
+* docker stop gallant_montalcini
 
 ### Reference Documentation
 For further reference, please consider the following sections:
